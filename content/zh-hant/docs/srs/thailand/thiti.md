@@ -4,13 +4,11 @@ title: Thiti 醫生
 
 醫生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
 
-所在醫院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
-
 手術費用：
 
 ```csv
 手術方式,價格
-皮瓣,{{< currency 260000 THB >}}
+皮瓣,{{< currency 290000 THB >}}
 ```
 
 醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
@@ -29,4 +27,4 @@ Thiti 在外觀上同樣能取得相對自然的陰唇等結構，小陰唇內�
 
 由於使用改進的 PI 技術，Thiti 對通模具的要求較低（初期 2 &times; 45min 每日，後期可更少），且恢復期較短，常在一兩個月後就可以正常生活。
 
-總的來說，Thiti 在外觀和敏感度等方面與 [Suporn]({{< ref "suporn" >}}) 和 [Chettawut]({{< ref "chettawut" >}}) 都有一定差距，手術效果穩定性更也低。但是對護理的需求要低得多，對於對手術本身效果沒有過高要求的個體是不錯的選擇。
+總的來說，Thiti 在外觀和敏感度等方面與 [Suporn]({{< ref "suporn" >}}) 和 [Chettasak]({{< ref "chettawut" >}}) 都有一定差距，手術效果穩定性更也低。但是對護理的需求要低得多，對於對手術本身效果沒有過高要求的個體是不錯的選擇。

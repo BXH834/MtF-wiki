@@ -8,9 +8,9 @@ title: Thiti 医生
 
 {{< /notice >}}
 
-医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti)
+医生：[Dr. Thiti Chaovanalikit](https://www.bumrungrad.com/doctors/Thiti), 通过医生本人联系的手术会安排在与其合作的几个医院。
 
-所在医院：[Bumrungrad International Hospital](https://g.page/bumrungradthailand)
+[Bumrungrad International Hospital](https://g.page/bumrungradthailand) 有聘请 Thiti 医生坐诊，但是在该医院的手术费用会更高。
 
 ## 手术费用
 
@@ -21,7 +21,7 @@ title: Thiti 医生
 皮瓣（非功能性阴道）,{{< currency 280000 THB >}}
 皮瓣（功能性阴道）,{{< currency 290000 THB >}}
 结肠（传统技术）,{{< currency 380000 THB >}}
-结肠（腹腔镜技术）,{{< currency 570000 THB >}}
+结肠（腹腔镜技术）,{{< currency 550000 THB >}}
 腹膜技术,{{< currency 570000 THB >}}
 ```
 
@@ -57,7 +57,7 @@ Thiti 在外观上同样能取得相对自然的阴唇等结构，小阴唇内�
 
 除此之外，Thiti也可以接收结肠SRS。
 
-总的来说，Thiti 在外观和敏感度等方面与 [Suporn]({{< ref "suporn" >}}) 和 [Chettawut]({{< ref "chettawut" >}}) 都有一定差距，但各方面都尚可。但是对护理的需求要低得多，对于对手术本身效果没有过高要求的个体是不错的选择。
+总的来说，Thiti 在外观和敏感度等方面与 [Suporn]({{< ref "suporn" >}}) 和 [Chettasak]({{< ref "chettawut" >}}) 都有一定差距，但各方面都尚可。但是对护理的需求要低得多，对于对手术本身效果没有过高要求的个体是不错的选择。
 
 ## 术后评价 {#outcome-post-op}
 

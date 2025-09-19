@@ -12,7 +12,7 @@ weight: 2001
 - [杨欣](https://www.haodf.com/doctor/10835.html)
 - [常旭]({{< ref "chang-xu" >}})
 
-[跨性别女性（MTF）生殖器手术须知](https://m.haodf.com/neirong/wenzhang/9392204745.html)
+[跨性别女性（MTF）生殖器手术须知](https://www.sar.com.cn/huiyin/yxp/13021.html)
 
 ## 前置条件
 
@@ -30,6 +30,12 @@ weight: 2001
 {{< expand "SRS 术前提交材料" >}}
 {{< gallery pattern="pre-commit*" >}}
 {{< /expand >}}
+
+{{<notice warning "诊断证明" >}}
+
+北医三院性别肯定手术伦理审核仅认可三级精神专科医院的精神科或心理科、以及三甲综合医院的精神科开具的正式的易性症诊断证明。即三甲综合医院的心理科开具的易性症诊断证明将无法用于伦理审核。激素治疗、平胸手术所需资料均不受影响。参阅 [【通知】北医三院伦理审核规定调整](https://mp.weixin.qq.com/s/g8gWOXEC1OFtR-A8tfJORA)。
+
+{{</notice>}}
 
 ## 费用
 

@@ -1,12 +1,12 @@
 ---
-title: Chettawut 醫生
+title: Chettasak 醫生
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
 ## 醫生簡介 {#intro}
 
-- 醫生姓名：Chettawut，蔡達武 {{< tag/pos "WPATH 成員" >}}
+- 醫生姓名：Chettasak（曾用名 Chettawut，蔡達武）
 - 所在醫院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方網站: [WIH International hospital](https://wihhospital.com/en/)
 - 郵箱：<info@wihhospital.com>
@@ -19,11 +19,11 @@ title: Chettawut 醫生
 
 ```csv
 手術方式,價格
-零深度,{{< currency 330000 THB >}}
-皮瓣,{{< currency 350000 THB >}}
-結腸,{{< currency 450000 THB >}}
+零深度,{{< currency 340000 THB >}}
+皮瓣,{{< currency 360000 THB >}}
+結腸,{{< currency 550000 THB >}}
 結腸（腹腔鏡）,{{< currency 650000 THB >}}
-腹膜,{{< currency 530000 THB >}}
+腹膜,{{< currency 700000 THB >}}
 ```
 
 {{< notice info "備註" >}}
@@ -39,9 +39,6 @@ title: Chettawut 醫生
 目前醫院只提供**院內住宿部**與 **[Bangkok Rama](https://g.page/BaanSiRi)** 兩種選項，最低價格均為每晚 {{< currency 2700 THB >}}。需要在落地泰國前全款預付住宿費用，否則不提供接送、出院之後的探視與護理等服務。選擇院內住宿部護士每日會探視 2 次，Bangkok Rama 則為護士每日探視 1 次。\
 住宿需要至少在醫院住滿 30 天，或按來回機票酌情增減。因手術費用含**病房**4 天，因此可以在上述基礎上減 4 晚進行計算。如：若住 30 晚，則需額外支付 26 晚的住宿費用。\
 酒店免費派送早餐，午餐、晚餐自理。
-
-~~目前醫院在正在進行滿 5 晚贈 1 晚、滿 20 晚贈 5 晚活動。據稱該活動於 2023 年 1 月 5 日前均有效。~~ （待驗證）\
-~~（護士數學不是很好，比如共需住宿 21 晚，直接收 21-4=17 晚，如果佔了便宜最好別吱聲）~~
 
 <!-- 預約可以找中介，也可以透過 <chettawut@gmail.com> 或 <cset@truemail.co.th> 聯絡蔡醫生 -->
 <!-- 因改至 WIH 醫院，原聯絡方法存疑 -->
@@ -76,7 +73,7 @@ Chet 術後出現肉芽是非常常見的現象，通常會在術後復診的時
 
 ## 預約事項 {#precautions-order}
 
-1. 為了保證手術質量，正常情況下 Chettawut 醫生作為唯一的主刀醫師每天只會安排一個手術，因此確認手術日期時間會稍長。
+1. 為了保證手術質量，正常情況下 Chettasak 醫生作為唯一的主刀醫師每天只會安排一個手術，因此確認手術日期時間會稍長。
 
 1. **一旦雙方確認了手術日期，顧客需要在 10 天內支付 20% 的訂金。** 如果訂金沒有按時支付，手術日期將被延後。
 

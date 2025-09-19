@@ -1,5 +1,5 @@
 ---
-title: Chettawut 医生
+title: Chettasak 医生
 ---
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
@@ -12,32 +12,23 @@ title: Chettawut 医生
 
 ## 医生简介 {#intro}
 
-- 医生姓名：Chettawut，蔡达武
+- 医生姓名：Chettasak（曾用名 Chettawut，蔡达武）
 - 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方网站: [WIH International hospital](https://wihhospital.com/en/)
 - 邮箱：<info@wihhospital.com>
 - 电话：{{< telephone "+66 0-2078-8919" >}}
 - LINE：{{< shields/line "wihhospital" >}}
 
-## 医疗中介
-
-- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
-
-    从已知信息来看，大陆客人联系医院官方会被转交梁金，梁金处手术报价**低于**官方。
-
-- 曼谷雨 {{< shields/wechat "manguyu003" >}}
-
-    报价较高
-
 ## 手术费用和缴费方式 {#payment}
 
 ```csv
 手术方式,价格,最大允许BMI,阴道平均深度
 睾丸切除术,{{< currency 100000 THB >}},N/A,N/A
-零深度,{{< currency 400000 THB >}},35,无
-皮瓣,{{< currency 420000 THB >}},32,6 英寸
-结肠（腹腔镜）,{{< currency 725000 THB >}},28,7.5 英寸
-腹膜,{{< currency 800000 THB >}},28,6 英寸
+零深度,{{< currency 340000 THB >}},35,无
+皮瓣,{{< currency 360000 THB >}},32,6 英寸
+结肠,{{< currency 550000 THB >}},,
+结肠（腹腔镜）,{{< currency 650000 THB >}},28,7.5 英寸
+腹膜,{{< currency 700000 THB >}},28,6 英寸
 ```
 
 手术费用包括外科医生和麻醉师的专业费用、护理服务、手术室费用、标准药品、往返机场和医院的交通费用；不包括机票和术前检查费用。
@@ -53,12 +44,6 @@ title: Chettawut 医生
 目前医院只提供**院内住宿部**与 **[Bangkok Rama](https://g.page/BaanSiRi)** 两种选项，最低价格为每晚 {{< currency 2900 THB >}}。需要在落地泰国前全款预付住宿费用，否则不提供接送、出院之后的探视与护理等服务。选择院内住宿部护士每日会探视 2 次，Bangkok Rama 则为护士每日探视 1 次。\
 住宿需要至少在医院住满 30 天，或按来回机票酌情增减。因手术费用含**病房**4 天，因此可以在上述基础上减 4 晚进行计算。如：若住 30 晚，则需额外支付 26 晚的住宿费用。\
 酒店免费派送早餐，午餐、晚餐自理。
-
-~~目前医院在正在进行满 5 晚赠 1 晚、满 20 晚赠 5 晚活动。据称该活动于 2023 年 1 月 5 日前均有效。~~ （待验证）\
-~~（护士数学不是很好，比如共需住宿 21 晚，直接收 21-4=17 晚，如果占了便宜最好别吱声）~~
-
-<!-- 预约可以找中介，也可以通过 <chettawut@gmail.com> 或 <cset@truemail.co.th> 联系蔡医生 -->
-<!-- 因改至 WIH 医院，原联系方法存疑 -->
 
 {{<local zh-cn>}}如交定金时选择直接向医院汇款，可能在银行会因对公转账遇到麻烦，如果遇到麻烦，尽量备齐手术相关文件（如医院账单，营业执照等，可以向中介或医院索要）。{{</local>}}
 

@@ -2,6 +2,7 @@
 title: 上海九院｜程辰
 description: 上海九院提供跨性别序列治疗
 slug: sh9
+weight: 10
 ---
 
 本文大部分内容基于 [上海跨儿说](https://mp.weixin.qq.com/s/YfwBpWsmKbHxjxzoVeD6mw) (<https://archive.is/4TZhr>) 和 [上海九院医务社工](https://mp.weixin.qq.com/s/wnvrYViJfsJSxzAlAM_mUw) (<https://archive.is/WfX7x>) 撰写。
@@ -42,7 +43,7 @@ slug: sh9
 未成年会被转诊至复旦大学附属儿科医院。
 {{</notice>}}
 
-（建议）携带「易性症」证明。(目前，九院的 HRT 认可所有三甲医院给出的诊断证明，以及有实践表明，九院hrt也认可回龙观病历，是否认可其他三甲医院病历存疑。)
+需要携带「易性症」证明。(目前，九院的 HRT 认可所有三甲医院给出的「诊断证明」，俗称“大证”)
 
 {{< expand "知情同意书" >}}
 {{< gallery pattern="icf-*" >}}

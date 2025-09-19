@@ -5,12 +5,12 @@ title: 貢獻者指南
 ## 致港臺朋友
 
 歡迎您補充您的地區的醫療資源訊息。
-繁中部分頁面由簡中直接轉換而來，可能有的地方不夠本地化，希望提供優化意見。
+繁中部分頁面由簡中直接轉換而來，可能有的地方不夠本地化，希望提供改善意見。
 
 貢獻方式：
 
 1. 會 GitHub 操作，直接 PR 或者 透過 {{< shields/github-issue "project-trans/mtf-wiki" >}}
-1. 傳送郵件到 <hi@mtf.wiki>
+1. 傳送郵件到 <mtfwiki@project-trans.org>
 
 {{< notice info "友情提醒" >}}
 絕對不要做出任何道德綁架的行為！！！
@@ -54,7 +54,7 @@ title: 貢獻者指南
 ## 關於圖片資源
 
 如果該圖片為對紙質材料的拍攝請使用 Microsoft Lens (fbk Office Lens) 進行掃描以便於提供更好的閱讀體驗
-當然如果有條件的話建議提供掃描件，如果您不會相關的後處理（可以將該圖片提交至 <hi@mtf.wiki> 由我們進行脫敏後進行上傳）
+當然如果有條件的話建議提供掃描件，如果您不會相關的後處理（可以將該圖片提交至 <mtfwiki@project-trans.org> 由我們進行脫敏後進行上傳）
 
 [Microsoft Lens (Android)](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
 [Microsoft Lens (iOS)](https://apps.apple.com/app/id975925059)
